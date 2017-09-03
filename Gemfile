@@ -58,4 +58,5 @@ gem 'devise', '~> 4.2'
 
 gem 'bootstrap', '~> 4.0.0.alpha6'
 
-gem 'hyatt_view_tool', git: 'https://github.com/jhyatt1017/hyatt_view_tool'
+#MY GEM!!!!
+gem 'hyatt_view_tool', '~> 0.1.0'
