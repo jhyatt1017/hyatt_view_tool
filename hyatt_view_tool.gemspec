@@ -6,7 +6,7 @@ require "hyatt_view_tool/version"
 Gem::Specification.new do |spec|
   spec.name          = "hyatt_view_tool"
   spec.version       = HyattViewTool::VERSION
-  spec.authors       = ["TODO: Write your name"]
+  spec.authors       = ["Joseph Hyatt"]
   spec.email         = ["<jhyatt1017@gmail.com>"]
 
   spec.summary       = %q{Various view specific methods for applications I use.}

@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+HyattViewTool::Renderer.copyright 'Joseph Hyatt', 'All rights reserved'
+```
 
 ## Development
 
